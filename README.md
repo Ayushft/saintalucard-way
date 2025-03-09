@@ -1,16 +1,39 @@
-# saintalucard-way README
+# 🦇 SaintAlucard's Way
 
-## Working with Markdown
+*A no-nonsense VS Code extension pack for Salesforce developers who want to code faster, prettier, and smarter.*  
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+---
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+### ❓ What is this?  
+A **curated collection of VS Code extensions, themes, and settings** I (SaintAlucard) use daily. It bundles tools for:  
+- 🚀 **Productivity** (AI helpers, shortcuts, debuggers)  
+- 🎨 **Aesthetics** (themes, icons, minimal UI tweaks)  
+- ⚡ **Workflow** (git ninjutsu, language packs, automation).  
 
-## For more information
+---
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### ❓ Why is this?  
+Because **setting up a dev environment shouldn’t take 3 hours**. This pack:  
+- Removes the guesswork of choosing extensions  
+- Balances speed with visual polish  
+- Forces fewer decisions, more coding.  
+
+---
+
+### 📦 What’s included?  
+*(Current highlights – full list TBA)*  
+- **Themes:** Codey's in bed by 10  
+- **Core Tools:** GitLens, Prettier, ESLint  
+- **AI:** Tabnine  
+- **UX Boosters:** Rainbow Brackets, Better Comments, Indenticator
+- **Miscellaneous:** 
+
+---
+
+### ⚠️ Requirements  
+1. VS Code v1.98.0+  
+2. Java (11 onwards) installed and working
+3. Salesforce CLI
+4. Time to fool around with extensions
 
 **Enjoy!**

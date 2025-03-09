@@ -6,10 +6,22 @@
   "engines": {
     "vscode": "^1.98.0"
   },
+  "publisher" : "SaintAlucard",
+  "icon" : "skylights.png",
   "categories": [
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "salesforce.codey-s-in-bed-by-10",
+    "mhutchie.git-graph",
+    "salesforce.salesforcedx-vscode-expanded",
+    "modicatech.apex-code-coverage-visualizer",
+    "aaron-bond.better-comments",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "sidneys1.gitconfig",
+    "SirTori.indenticator",
+    "PKief.material-icon-theme",
+    "jebbs.plantuml",
+    "pnp.polacode",
   ]
 }
