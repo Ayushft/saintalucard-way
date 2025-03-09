@@ -1,0 +1,15 @@
+{
+  "name": "saintalucard-way",
+  "displayName": "SaintAlucard's Way",
+  "description": "A curated VS Code pack for streamlined coding—handpicked to fuse productivity, aesthetics, and power. Syntax tools, themes, and workflow boosters, battle-tested for devs who prioritize speed and style.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
